@@ -12,7 +12,6 @@
       "32": "logo_32.png",
       "48": "logo_48.png"
    },
-   "key": "",
    "manifest_version": 2,
    "name": "Coursera.org",
    "update_url": "http://clients2.google.com/service/update2/crx",
