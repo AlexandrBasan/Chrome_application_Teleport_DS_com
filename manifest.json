@@ -1,0 +1,20 @@
+{
+   "app": {
+      "launch": {
+         "web_url": "http://saas.teleport-ds.com/"
+      },
+      "urls": [ "http://www.teleport-ds.com/" ]
+   },
+   "description": "TELEPORT Delivery Service SaaS System",
+   "icons": {
+      "128": "logo_128.png",
+	  "16": "logo_16.png",
+      "32": "logo_32.png",
+      "48": "logo_48.png"
+   },
+   "key": "",
+   "manifest_version": 2,
+   "name": "Teleport DS",
+   "update_url": "http://clients2.google.com/service/update2/crx",
+   "version": "1.0.5"
+}
