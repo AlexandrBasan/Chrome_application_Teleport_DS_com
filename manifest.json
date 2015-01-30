@@ -1,11 +1,11 @@
 {
    "app": {
       "launch": {
-         "web_url": "http://saas.teleport-ds.com/"
+         "web_url": "https://www.coursera.org/"
       },
-      "urls": [ "http://www.teleport-ds.com/" ]
+      "urls": [ "https://www.coursera.org/" ]
    },
-   "description": "TELEPORT Delivery Service SaaS System",
+   "description": "Coursera.org",
    "icons": {
       "128": "logo_128.png",
 	  "16": "logo_16.png",
@@ -14,7 +14,7 @@
    },
    "key": "",
    "manifest_version": 2,
-   "name": "Teleport DS",
+   "name": "Coursera.org",
    "update_url": "http://clients2.google.com/service/update2/crx",
-   "version": "1.0.5"
+   "version": "1.0.1"
 }
